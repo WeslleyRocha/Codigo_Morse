@@ -28,3 +28,7 @@ a seguir:
 --- .-.. .- OLA </br>
 -- . .-. -.-. .- -.. --- .-.. .. ...- .-. . MERCADO LIVRE</br>
 ... .--. .-. .. -. --. SPRING
+
+GET -> http://localhost:8080/codigo_morse/codigo/.-- . ... _ .-. --- -.-. .... .-
+
+![img.png](Postman.png)

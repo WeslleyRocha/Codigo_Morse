@@ -29,6 +29,6 @@ a seguir:
 -- . .-. -.-. .- -.. --- .-.. .. ...- .-. . MERCADO LIVRE</br>
 ... .--. .-. .. -. --. SPRING
 
-GET -> http://localhost:8080/codigo_morse/codigo/.-- . ... _ .-. --- -.-. .... .-
+{curl --location --request GET 'http://localhost:8080/codigo_morse/codigo/.-- . ... _ .-. --- -.-. .... .-'}
 
 ![img.png](Postman.png)
